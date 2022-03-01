@@ -11,7 +11,7 @@ donor (donor-excitation, donor-emission) and a FRET channel (donor-excitation, a
 The goal of this small letter is to guide the reader (mostly me) through the challenges and warnings when trying to obtaining quantitative FRET efficiencies from your data.
 
 ## Software
-This letter was written in [https://www.texmacs.org/tmweb/home/welcome.en.html]
+This letter was written in [TeXMacs](https://www.texmacs.org/tmweb/home/welcome.en.html), mostly because I wanted to explore the tool and use it for something useful :)
 
 ## Disclaimer
 This is a personal letter, which I mostly wrote to remind myself of the train of thoughts and few calculations I did during my Ph.D. This document has not been peer-reviewed, so it might contain mistakes or incorrect statements.
