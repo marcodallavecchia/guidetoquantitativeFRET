@@ -1,4 +1,8 @@
-# A personal unpeer-reviewed guide to quantitative FRET
+# A personal unpeer-reviewed guide to quantitative FRET imaging
+
+## Content
+1. _A guide to quantitative FRET imaging_ -> raw (.tm) and compiled (.pdf) files
+2. _fret_correction_classes.py_ -> a python file containing all classes with methods I wrote for the spectral correction I describe in the letter
 
 ## Brief intro
 I wrote this small guide during my Ph.D. while I was developing some Python code to spectrally correct FRET data I measured in order to obtain accurate and objective FRET efficiencies from fluorescence images taking into account the optics used during imaging.
@@ -14,4 +18,4 @@ The goal of this small letter is to guide the reader (mostly me) through the cha
 This letter was written in [TeXMacs](https://www.texmacs.org/tmweb/home/welcome.en.html), mostly because I wanted to explore the tool and use it for something useful :)
 
 ## Disclaimer
-This is a personal letter, which I mostly wrote to remind myself of the train of thoughts and few calculations I did during my Ph.D. This document has not been peer-reviewed, so it might contain mistakes or incorrect statements.
+This is a personal letter, which I mostly wrote to remind myself of the train of thoughts and few calculations I did during my Ph.D. This document has not been peer-reviewed, so it might contain mistakes or incorrect statements. The python code could be used for its structure and implemented math but again it has not been thoroughly debugged or inspected for possible mistakes. It was originally written for my personal use, I might spend some time in the future to expand its usefulness and generalize objects and methods.
